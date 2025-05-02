@@ -14,11 +14,11 @@ window.onload = function () {
     for (let adje of adj) {
       for (let noun of nombre) {
         let dominio = pronoun + " " + adje + " " + noun;
-        console.log(dominio);
+        console.log("www." + dominio + ".es");
       }
     }
   }
-  console.log("www." dominio ".es");
+
 };
 
 
